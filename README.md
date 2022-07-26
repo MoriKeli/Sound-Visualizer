@@ -14,3 +14,4 @@ Creating a sound visualizer using matplotlib
 ## Output
 The following image will be displayed
 
+![waves](https://user-images.githubusercontent.com/78599959/180956625-c52ef3bf-ca02-4b96-8db7-c8378b80ea2d.png)
